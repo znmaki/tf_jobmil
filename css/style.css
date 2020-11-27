@@ -1,0 +1,42 @@
+.color_menu
+{
+    color: #B1A994;
+    background-color: #151516;
+ 
+}
+.text_video
+{
+    color: #e01414;    
+}
+.text_color_main
+{
+    color: #B1A994;
+}
+
+.text_color_contenido
+{
+    color: #d4cbb2;
+}
+
+
+.main
+{
+    background-color: #2C2E30;
+}
+
+.display-5 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.display-6 {
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.fondo_footer
+{
+    background-color: #151516;
+}
